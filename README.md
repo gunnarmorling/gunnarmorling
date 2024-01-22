@@ -20,7 +20,7 @@ Here are some recordings from talks over the last few years:
 Occasionally, I [blog](https://morling.dev/blog) about topics related to software engineering.
 Here are some popular posts:
 
-* [The One Billion Row Challenge](https://www.morling.dev/blog/one-billion-row-challenge/)
+* [The One Billion Row Challenge 1️⃣🐝🏎️](https://www.morling.dev/blog/one-billion-row-challenge/)
 * [Getting Started With Java Development in 2023 — An Opinionated Guide](https://www.morling.dev/blog/getting-started-with-java-development-2023/)
 * [The Code Review Pyramid](https://www.morling.dev/blog/the-code-review-pyramid/)
 * [What's in a Good Error Message?](https://www.morling.dev/blog/whats-in-a-good-error-message/)
