@@ -1,8 +1,8 @@
 Hello Stranger 👋!
 
-My name is Gunnar.
-I am an open-source software engineer, currently working at [Decodable](https://www.decodable.co/), involved with data streaming based on Apache Flink.
-Before joining Decodable, I spent ten years at Red Hat, where I led the Debezium project, a platform for change data capture.
+I am Gunnar, an open-source software engineer in the Java and data streaming space. I currently work as a Technologist at [Confluent](https://www.confluent.io/).
+In my past role at Decodable I focused on developer outreach and helped them build their stream processing platform based on on Apache Flink.
+Prior to that, I spent ten years at Red Hat, where I led the Debezium project, a platform for change data capture.
 
 I have been a long-time committer to multiple [open-source projects](https://morling.dev/projects), including Debezium, Hibernate, kcctl 🧸, JfrUnit, MapStruct and Deptective;
 I also serve as the spec lead for Bean Validation 2.0 (first at the JCP, now under the Jakarta EE umbrella at the Eclipse Foundation).
