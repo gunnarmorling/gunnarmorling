@@ -1,6 +1,4 @@
-Hello Stranger 👋!
-
-I am Gunnar, an open-source software engineer in the Java and data streaming space. I currently work as a Technologist at [Confluent](https://www.confluent.io/).
+I am an open-source software engineer in the Java and data streaming space. I currently work as a Technologist at [Confluent](https://www.confluent.io/).
 In my past role at Decodable I focused on developer outreach and helped them build their stream processing platform based on on Apache Flink.
 Prior to that, I spent ten years at Red Hat, where I led the Debezium project, a platform for change data capture.
 
