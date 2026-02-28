@@ -2,7 +2,7 @@ I am an open-source software engineer in the Java and data streaming space. I cu
 In my past role at Decodable I focused on developer outreach and helped them build their stream processing platform based on on Apache Flink.
 Prior to that, I spent ten years at Red Hat, where I led the Debezium project, a platform for change data capture.
 
-I have been a long-time committer to multiple [open-source projects](https://morling.dev/projects), including Debezium, Hibernate, kcctl 🧸, JfrUnit, MapStruct and Deptective;
+I have been a long-time committer to multiple [open-source projects](https://morling.dev/projects), including Debezium, Hibernate, Hardwood, kcctl 🧸, JfrUnit, MapStruct and Deptective;
 I also serve as the spec lead for Bean Validation 2.0 (first at the JCP, now under the Jakarta EE umbrella at the Eclipse Foundation).
 
 Named a [Java Champion](https://apex.oracle.com/pls/apex/f?p=19297:3::::::), I enjoy [presenting at conferences](https://morling.dev/conferences).
